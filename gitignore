@@ -1,0 +1,6 @@
+.env
+*.pt
+__pycache__/
+*.pyc
+.vscode/
+runs/
